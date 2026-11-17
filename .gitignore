@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Data files (Preserve directory structure via .gitkeep, ignore actual bulky data)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/metadata/*
+!data/metadata/.gitkeep
+
+# Download archives & big raw files
+*.tar
+*.tar.gz
+*.gz
+*.zip
+
+# Model checkpoints / serialized artifacts
+*.pkl
+*.joblib
+*.onnx
+
+# Generated Figures & Exports (keep directory via .gitkeep)
+reports/figures/*
+!reports/figures/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
