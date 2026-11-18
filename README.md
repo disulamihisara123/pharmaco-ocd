@@ -29,9 +29,10 @@ pharmaco-ocd/
 ```
 
 ## Datasets Targeted
-1. **NCBI GEO GSE60190:** Genome-wide gene expression profiling in OCD cohorts.
-2. **NCBI GEO GSE25974 / GSE76826 / GSE49667:** SSRI/antidepressant treatment response transcriptomic profiling (Responder vs. Non-Responder).
-3. **Psychiatric Genomics Consortium (PGC):** OCD GWAS summary statistics and candidate gene lists (*SLC1A1*, *SLC6A4*, *HTR2A*, *BDNF*, *COMT*, *DLGAP3*, *SAPAP3*, *IL6*).
+1. **NCBI GEO GSE60190:** Postmortem DLPFC genome-wide gene expression profiling in OCD, ED, and control cohorts (*Homo sapiens*, GPL6947, $n = 133$).
+2. **NCBI GEO GSE149980 & GSE83386:** SSRI (citalopram / fluoxetine) treatment response transcriptomic profiling in patient-derived LCLs with documented clinical outcomes (Responder vs. Non-Responder, GPL17077, $n = 68$ and $n = 20$).
+3. **NCBI GEO GSE76826 (and optional validation GSE146446):** Peripheral blood leukocyte transcriptomic profiling across MDD, Remission, and healthy controls (GPL17077, $n = 32$).
+4. **Psychiatric Genomics Consortium (PGC):** OCD GWAS summary statistics and candidate gene lists (*SLC1A1*, *SLC6A4*, *HTR2A*, *BDNF*, *COMT*, *DLGAP3*/*SAPAP3*, *IL6*).
 
 ## Project Milestones (5 Months)
 - **M1 (Month 1):** Harmonised Dataset & Quality Control Report
